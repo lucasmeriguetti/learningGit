@@ -5,4 +5,5 @@ print "func.py"
 
 print "func.py"
 
-print 456778
+print 1234
+
